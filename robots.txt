@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://didarmurad2019.github.io/Enerlytix-Technologies-LLC.github.io/sitemap.xml
